@@ -1,4 +1,4 @@
-import { AppDataSource } from "./data-source";
+/* import { AppDataSource } from "./data-source";
 import {app} from './app'
 
 AppDataSource.initialize()
@@ -10,4 +10,4 @@ AppDataSource.initialize()
             console.log(`App is running on https://localhost:${PORT}`)
         })
     })
-    .catch((err: string) => console.log(err))
+    .catch((err: string) => console.log(err)) */

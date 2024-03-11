@@ -1,4 +1,4 @@
-import 'dotenv/config'
+/* import 'dotenv/config'
 import path from 'path'
 import {DataSource, DataSourceOptions} from 'typeorm';
 import {AppError} from './errors'
@@ -23,4 +23,4 @@ const dataSourceConfig = (): DataSourceOptions => {
     }
 }
 
-export const AppDataSource = new DataSource(dataSourceConfig())
+export const AppDataSource = new DataSource(dataSourceConfig()) */
